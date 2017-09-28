@@ -14,17 +14,16 @@ public class RefactorSpecialNumbers {
         int lastNum = Integer.parseInt(reader.readLine());
         reader.close();
 
-        for (int i = 1; i <= lastNum; i++)
-        {
+        for (int i = 1; i <= lastNum; i++) {
             int current = i;
             int sum = 0;
-            while (current > 0)
-            {
+            while (current > 0) {
                 sum += current % 10;
                 current /= 10;
             }
             boolean isSpecial = sum == 5 || sum == 7 || sum == 11;
-            System.out.printf("%d -> %s\n", i, isSpecial);
+            String special = Boolean.toString(isSpecial);
+            System.out.printf("%d -> %s\r\n", i, special.substring(0, 1).toUpperCase() + special.substring(1));
         }
     }
 }
