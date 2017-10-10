@@ -1,4 +1,4 @@
-package objectsClasses.closestTwoPoints_05;
+package objectsClasses_Lab.closestTwoPoints_05;
 
 import java.io.BufferedReader;
 import java.io.IOException;

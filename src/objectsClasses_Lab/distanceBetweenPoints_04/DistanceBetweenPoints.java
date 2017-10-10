@@ -1,4 +1,4 @@
-package objectsClasses.distanceBetweenPoints_04;
+package objectsClasses_Lab.distanceBetweenPoints_04;
 
 import java.io.BufferedReader;
 import java.io.IOException;

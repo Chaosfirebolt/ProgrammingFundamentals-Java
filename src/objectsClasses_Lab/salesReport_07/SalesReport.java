@@ -1,4 +1,4 @@
-package objectsClasses.salesReport_07;
+package objectsClasses_Lab.salesReport_07;
 
 import java.io.BufferedReader;
 import java.io.IOException;

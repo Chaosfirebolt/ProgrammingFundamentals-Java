@@ -1,4 +1,4 @@
-package objectsClasses.dayOfWeek_01;
+package objectsClasses_Lab.dayOfWeek_01;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package objectsClasses.bigFactorial_03;
+package objectsClasses_Lab.bigFactorial_03;
 
 import java.io.BufferedReader;
 import java.io.IOException;

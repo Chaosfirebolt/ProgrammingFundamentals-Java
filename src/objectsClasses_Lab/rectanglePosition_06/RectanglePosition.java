@@ -1,4 +1,4 @@
-package objectsClasses.rectanglePosition_06;
+package objectsClasses_Lab.rectanglePosition_06;
 
 import java.io.BufferedReader;
 import java.io.IOException;

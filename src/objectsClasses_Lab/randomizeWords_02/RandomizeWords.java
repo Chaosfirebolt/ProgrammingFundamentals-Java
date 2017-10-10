@@ -1,4 +1,4 @@
-package objectsClasses.randomizeWords_02;
+package objectsClasses_Lab.randomizeWords_02;
 
 import java.io.BufferedReader;
 import java.io.IOException;
